@@ -1,4 +1,10 @@
-# tmhOAuth
+## tmhOAuth
+
+# Laravel-Twitter Fork
+This fork is used for [atymic/twitter](https://github.com/atymic/twitter). It fixes upstream issues in the package, due to
+it no longer being maintained.
+
+We are moving away from the package in the long term due to these issues, but we'll accept PRs to fix issues in the meantime.
 
 An OAuth library written in PHP by @themattharris.
 
